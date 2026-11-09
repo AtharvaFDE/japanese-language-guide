@@ -1,13 +1,5 @@
 # 🇯🇵 Japanese Vocabulary & Sentences – Food & Drinks (Page 4)
 
-## 🖼️ Visual Learning
-
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Rice,_miso_soup,_tsukemono_and_tea_by_yajico_in_Kyoto.jpg" width="500" alt="Japanese Traditional Food and Drinks"/>
-</p>
-
-<p align="center">🇯🇵 Japanese Traditional Food & Drinks 🍣🍵</p>
-
 ## 🍱 1. Vocabulary
 
 | Japanese | Kanji | Romaji | Meaning |
